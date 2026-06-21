@@ -1,0 +1,30 @@
+a=5.4
+c=10.5
+
+print(a+c)
+print(c-a)
+print(a*c)
+print(c/a)
+print(c%a)
+
+print ("Hi"+" "+"Arthur")
+
+print("Arthur"*5)
+
+print("5"+"5")
+
+print("5"*4)
+
+print(10>34)
+print(12<13)
+print(12>=12)
+print(12==12)#check for equality
+print(12!=12)#! means not equal to
+
+print(12>3 and 5>6)
+print(12>3 and 6>5)
+
+print(12>3 or 5>6)
+
+print(not True)
+print(not False)
